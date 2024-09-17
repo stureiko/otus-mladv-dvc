@@ -2,3 +2,5 @@ data/
 venv
 yc-mladv-dvc.key
 .DS_Store
+/data
+/model.h5
